@@ -14,3 +14,16 @@ Program 2 reads the file contents and tokenizes the file contents. The program o
 
 # WordNet
 This is a pdf document that shows an overview of WordNet, SentiWordNet, Morphy, and Collocation. You can see the [pdf document here](wordnet.pdf).
+
+# N-Gram Language Model Program and Report
+There are two programs for the N-Gram. [This](hw3_vtn180000_program_1.py) is the first program. The first program reads in a csv file and then tokenizes the text. After that, the program creates a bigram and unigram list. Lastly, the program creates two dictionary from the two lists and then pickles them. The [second program](hw3_vtn180000_program_2.py) reads in the pickles from the first program and unpickles them. The (N-Gram report)[vtn180000.N-Grams.pdf] is a pdf document that talks about N-Grams, describing what they are and how are they important. 
+
+# Web Crawler Program
+
+# Text Classification 1
+
+# ACL Paper Summary
+
+# Text Classification 2 
+
+# Chatbot Program and Report 
