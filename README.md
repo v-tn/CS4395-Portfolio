@@ -25,7 +25,7 @@ This program utilizes the web crawler to search for the wikipedia page on ice ho
 This is a pdf document that shows how I utilized Naïve Bayes, Logistic Regression, and Neural Networks algorithms for text classification. I used the algorithms to train and test from a [dataset](cleaned_review.csv). You can see the [pdf document here](vtn180000-text_classification_hw_-1.pdf)
 
 # ACL Paper Summary Report
-This is a pdf document that summarizes "Contextual Representation Learning beyond Masked Language Modeling" which is an ACL paper that was published in 2022. You can see the report [here](VTN180000- ACL Paper Summary-1.pdf).
+This is a pdf document that summarizes "Contextual Representation Learning beyond Masked Language Modeling" which is an ACL paper that was published in 2022. You can see the report [here](VTN180000-ACL Paper Summary-1.pdf).
 
 # Text Classification 2 Report
 This is a pdf document that shows how I utilized the sequential model, RNN, and embeddings for text classification from a [dataset](cleaned_review.csv). You can see the [pdf document here](vtn180000-text_classification_2_hw.pdf).
