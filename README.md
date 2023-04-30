@@ -32,3 +32,6 @@ This is a pdf document that shows how I utilized the sequential model, RNN, and 
 
 # Chatbot Program and Report 
 This program utilizes the OpenAI API to use as a chatbot to respond to the user. The program uses the web scrape to scrape two web pages, one about basketball and the other about ice hockey. Then the program cleans up the text files and sends it to the chatbot when the user asks about the origin of basketball or ice hockey. The program also utilizes NER (named entity recognition) to keep track of the user name. You can see the program [here](chatbot.py). The chatbot report is a report over the chatbot program. The report gives an overview of the program and also talks about its strengths and weaknesses. You can see the report [here](Chatbot_Report.pdf).
+
+# Summary 
+At the beginning of the semester, Spring 2023, I started to work on NLP. I have developed my skills with it throughout the semester by writing programs and reports. I realize I enjoy NLP very much as I look forward to learn about it and write programs over it. After the semester is over, I plan to continue to learn more on this field. Furthermore, I plan to use NLP in my future projects, specifically N-Grams and text classification algorithms.
