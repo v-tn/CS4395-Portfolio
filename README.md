@@ -19,10 +19,10 @@ This is a pdf document that shows an overview of WordNet, SentiWordNet, Morphy, 
 There are two programs for the N-Gram. [This](hw3_vtn180000_program_1.py) is the first program. The first program reads in a csv file and then tokenizes the text. After that, the program creates a bigram and unigram list. Lastly, the program creates two dictionary from the two lists and then pickles them. The [second program](hw3_vtn180000_program_2.py) reads in the pickles from the first program and unpickles them. The [N-Gram report](vtn180000.N-Grams.pdf) is a pdf document that talks about N-Grams, describing what they are and how are they important. 
 
 # Web Crawler Program
-This program utilizes the web crawler to search for the wikipedia page on ice hockey. Then it uses the web scraping function to download all the urls on the ice hockey wikipedia page into several text files. Lastly, the program cleans up the text files using the tokenizer and finds the top 10 terms to put them in a dictionary. You can see the program [here](vtn180000-hwch12.py)
+This program utilizes the web crawler to search for the wikipedia page on ice hockey. Then it uses the web scraping function to download all the urls on the ice hockey wikipedia page into several text files. Lastly, the program cleans up the text files using the tokenizer and finds the top 10 terms to put them in a dictionary. You can see the program [here](vtn180000-hwch12.py).
 
 # Text Classification 1 Report
-This is a pdf document that shows how I utilized Naïve Bayes, Logistic Regression, and Neural Networks algorithms for text classification. I used the algorithms to train and test from a [dataset](cleaned_review.csv). You can see the [pdf document here](vtn180000-text_classification_hw_-1.pdf)
+This is a pdf document that shows how I utilized Naïve Bayes, Logistic Regression, and Neural Networks algorithms for text classification. I used the algorithms to train and test from a [dataset](cleaned_review.csv). You can see the [pdf document here](vtn180000-text_classification_hw_-1.pdf).
 
 # ACL Paper Summary Report
 This is a pdf document that summarizes "Contextual Representation Learning beyond Masked Language Modeling" which is an ACL paper that was published in 2022. You can see the report [here](ACL_Paper_Summary_1.pdf).
